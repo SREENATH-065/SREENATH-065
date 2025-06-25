@@ -1,7 +1,7 @@
 # Hi there, I'm Sreenath S! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Computer+Science+Student;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Computer+Science+Student;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -75,7 +75,7 @@ Content-based recommendation engine using advanced similarity algorithms.
 ---
 
 ### 🎯 [Habit Hack - AI Habit Tracker](https://github.com/reneto-unstoppable/HABIT-HACK)
-**FOSSERA Hackathon Winner** 🏆
+**FOSSERA Hackathon**
 
 Full-stack gamified habit tracker with AI-driven task generation.
 
