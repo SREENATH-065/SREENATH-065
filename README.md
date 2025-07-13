@@ -157,7 +157,7 @@ An anonymous real-time chat app for passengers on the same train. All messages a
 - 🎮 **Co-Lead** – HabitHack (FOSSERA Hackathon)  
 - 👨‍💻 **Team Lead** – 7-member Employee Management System (Java + MySQL)  
 - 🎓 **Campus Ambassador** – Skill Intern  
-- 📚 **Course Committee Representative** – NSSCE  
+- 📚 **Course Committee Representative** – Represented peers in multiple courses 
 - 👨‍🔬 **Hackathon Participant** – Smart India Hackathon 2024  
 
 ---
