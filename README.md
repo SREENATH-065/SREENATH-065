@@ -100,7 +100,7 @@ Offline peer-to-peer communication platform using Bluetooth Low Energy mesh netw
 
 ---
 
-## 🌾 [Niti-Setu — Voice-Based Scheme Eligibility Engine](https://github.com/Gayathrisubramanian06/Niti-setu)
+## 🌾 [Niti-Setu — Voice-Based Scheme Eligibility Engine](https://github.com/SREENATH-065/Niti-setu)
 
 AI-driven multilingual platform for government scheme eligibility analysis.
 
@@ -117,7 +117,7 @@ AI-driven multilingual platform for government scheme eligibility analysis.
 
 ---
 
-## 💻 [CodeCollab — Real-Time Collaborative IDE](https://github.com/Gayathrisubramanian06/CodeCollab-)
+## 💻 [CodeCollab — Real-Time Collaborative IDE](https://github.com/SREENATH-065/CodeCollab)
 
 Collaborative programming environment with real-time synchronization and debugging workflows.
 
