@@ -10,7 +10,7 @@
 
 I'm a Computer Science undergraduate specializing in **AI & Machine Learning** at NSS College of Engineering, Palakkad. I enjoy building scalable AI systems, distributed applications, and full-stack platforms that solve practical real-world problems.
 
-* 🎓 **CGPA:** 9.14/10 (B.Tech CSE with Honors in AI & ML)
+* 🎓 **CGPA:** 9.17/10 (B.Tech CSE with Honors in AI & ML)
 * 🤖 Exploring **LLMs, RAG Systems, Transformers & Edge AI**
 * 🌐 Interested in **Distributed Systems, Full-Stack Engineering & Applied AI**
 * 🏆 Active hackathon participant and collaborative builder
